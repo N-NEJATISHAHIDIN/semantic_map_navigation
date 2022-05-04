@@ -1,0 +1,2 @@
+####################################### ** Policy_network_Epoch2 ** #######################################
+Epoch [2/100], Train Loss: tensor(18.9959, device='cuda:0', grad_fn=<AddBackward0>), Test Success Rate: 10.0, Test Error Ratio[110.1]
